@@ -1,0 +1,24 @@
+{
+  "name": "loudspeaker",
+  "version": "1.0.0",
+  "description": "An event emitter with the goal of being as feature rich as possible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfrieson/loudspeaker.git"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "loudspeaker"
+  ],
+  "author": "Steven Frieson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sfrieson/loudspeaker/issues"
+  },
+  "homepage": "https://github.com/sfrieson/loudspeaker#readme"
+}
