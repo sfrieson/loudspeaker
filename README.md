@@ -4,18 +4,24 @@ An event emitter whose purpose is to be as feature-rich as possible. This is mea
 pushing the boundaries of what Event Emitters currently do. The mission is as max features, not min file size. Ease 
 of use is also be a goal.
 
+# Getting Started
+
+`npm install --save loudspeaker`
 
 # Version 1.0.0
 
-This first version is simply an event emitter.  It does what it's supposed to do. It's the first step.
+This first version is simply an event emitter.  It does what it's supposed to do. It's the first step.  Help getting 
+that second step would be appreciated!
 
 
 # Future Version Ideas
+- Adding tests of course
 - Common interface for cross browser events
 - Intercepting all events
 - Event statistics
 - All the stuff everyone else does
 - More...
+
 
 # Documentation
 
