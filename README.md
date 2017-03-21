@@ -40,9 +40,10 @@ The handler will call with the emitted arguments applied.
 
 ## Loudspeaker#off
 
-`Loudspeaker.off(event:string, handler:function)`
+`Loudspeaker.off(event:string, handler:function||true:boolean)`
 
-To stop listening for a specific handler.
+To stop listening for a specific handler. Passing in `true` instead of a handler will remove all handlers from that 
+event.
 
 ## Loudspeaker#emit
 
